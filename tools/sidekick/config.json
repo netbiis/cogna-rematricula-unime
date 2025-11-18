@@ -2,5 +2,5 @@
   "project": "Rematrícula Antecipada | Unime",
   "editUrlLabel": "AEM Editor",
   "editUrlPattern": "{{contentSourceUrl}}{{pathname}}?cmd=open",
-  "host": "https://rematricula.unime.edu.br"
+  "host": "rematricula.unime.edu.br"
 }
