@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/cogna-rematricula/:/",
-    "/content/cogna-rematricula/configuration:/.helix/config.json",
-    "/content/cogna-rematricula/metadata:/metadata.json"
+    "/content/lp-rematricula-unime/:/",
+    "/content/lp-rematricula-unime/configuration:/.helix/config.json",
+    "/content/lp-rematricula-unime/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/cogna-rematricula/"
+    "/content/lp-rematricula-unime/"
   ]
 }
